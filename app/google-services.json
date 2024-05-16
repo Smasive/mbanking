@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "408836751511",
+    "firebase_url": "https://mobibank-a5d07-default-rtdb.firebaseio.com",
+    "project_id": "mobibank-a5d07",
+    "storage_bucket": "mobibank-a5d07.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408836751511:android:7d32e01b9af4284d6929d2",
+        "android_client_info": {
+          "package_name": "com.example.mobilebanking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9uH2lY2UWQa0MV-UHqht2UHf-gFrOUYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
